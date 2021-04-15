@@ -21,8 +21,7 @@
         <TextBox x:Name="textBox_Copy2" HorizontalAlignment="Left" Height="23" Margin="329,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
         <Label x:Name="label_Copy3" Content="Email" HorizontalAlignment="Left" Margin="329,268,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.474,0.462"/>
         <TextBox x:Name="textBox_Copy3" HorizontalAlignment="Left" Height="23" Margin="329,299,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
-
-
+        <TextBlock  HorizontalAlignment="Right" Margin="438,403,0,0" TextWrapping="Wrap" Text="Help" VerticalAlignment="Bottom"/>
         <Button x:Name="g" Width="39" Height="35"></Button>
     </Grid>
 </Window>
